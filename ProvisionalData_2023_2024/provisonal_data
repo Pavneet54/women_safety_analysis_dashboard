@@ -1,0 +1,20 @@
+provisional_data_sources:
+  - city: "Mumbai"
+    year: 2024
+    source: "Indian Express"
+    links:
+      - "https://indianexpress.com/article/cities/mumbai/proposed-at-police-stations-a-separate-unit-to-attend-to-complaints-of-crime-against-women-children-8314483/"
+      - "https://indianexpress.com/article/cities/mumbai/mumbai-police-data-2024-saw-spike-in-crime-against-women-and-children-9886873/"
+
+  - city: "Delhi"
+    year: 2023
+    source: "Hindustan Times"
+    links:
+      - "https://www.hindustantimes.com/cities/delhi-news/crimes-against-women-fell-by-11-this-year-delhi-police-data-101734024074793.html"
+
+  - city: "Delhi"
+    year: 2024
+    source: "Hindustan Times"
+    links:
+      - "https://www.hindustantimes.com/cities/delhi-news/crimes-against-women-in-delhi-fell-by-8-6-in-2024-shows-data-101734370134906.html"
+      - "https://www.hindustantimes.com/india-news/delhi-witnessed-decline-in-murder-robbery-crimes-against-women-in-2024-as-compared-to-2023-data-101736590478507.html"
